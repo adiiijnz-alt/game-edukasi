@@ -26,3 +26,5 @@ yarn-error.log
 /public/audio/bgm.mp3
 /storage.zip
 /build/
+/storage/logs/*
+/_framework-duplicates-backup/
